@@ -4,11 +4,6 @@
 // Language: c
 
 #include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-//Complete the following function.
-
 
 void calculate_the_maximum(int n, int k)
  {
