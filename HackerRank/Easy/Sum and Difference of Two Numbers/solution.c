@@ -1,8 +1,3 @@
-// HackerRank Problem: Sum and Difference of Two Numbers
-// Link: https://www.hackerrank.com/challenges/sum-numbers-c/problem
-// Difficulty: Easy
-// Language: c
-
 #include <stdio.h>
 int main()
  {
