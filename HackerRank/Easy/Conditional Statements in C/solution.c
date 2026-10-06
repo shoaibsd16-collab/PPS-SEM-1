@@ -1,8 +1,3 @@
-// HackerRank Problem: Conditional Statements in C
-// Link: https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
-// Difficulty: Easy
-// Language: c
-
 #include <stdio.h>
 
 int main()
