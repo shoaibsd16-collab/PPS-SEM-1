@@ -1,8 +1,3 @@
-// HackerRank Problem: For Loop in C
-// Link: https://www.hackerrank.com/challenges/for-loop-in-c/problem
-// Difficulty: Easy
-// Language: c
-
 #include <stdio.h>
 
 int main() 
