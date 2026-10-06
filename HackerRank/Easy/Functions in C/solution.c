@@ -1,8 +1,3 @@
-// HackerRank Problem: Functions in C
-// Link: https://www.hackerrank.com/challenges/functions-in-c/problem
-// Difficulty: Easy
-// Language: c
-
 #include <stdio.h>
 
 int max_of_four(int a, int b, int c, int d) 
