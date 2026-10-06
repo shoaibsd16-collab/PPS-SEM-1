@@ -1,8 +1,3 @@
-// HackerRank Problem: Bitwise Operators
-// Link: https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
-// Difficulty: Easy
-// Language: c
-
 #include <stdio.h>
 
 void calculate_the_maximum(int n, int k)
