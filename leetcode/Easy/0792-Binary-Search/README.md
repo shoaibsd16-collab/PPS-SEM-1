@@ -54,24 +54,29 @@
 
 using namespace std;
 
-class Solution {
+class Solution 
+{
 public:
-    int search(vector<int>& nums, int target) {
+    int search(vector<int>& nums, int target) 
+    {
         int left = 0;
-        // FIX: Use nums.size() instead of numsSize
-        // We cast to int to avoid potential signed/unsigned issues in simple implementations
         int right = (int)nums.size() - 1;
 
-        while (left <= right) {
+        while (left <= right)
+        
+         {
             int mid = left + (right - left) / 2;
 
-            if (nums[mid] == target) {
+            if (nums[mid] == target)
+             {
                 return mid;
             } 
-            else if (nums[mid] < target) {
+            else if (nums[mid] < target)
+            {
                 left = mid + 1;
             } 
-            else {
+            else
+             {
                 right = mid - 1;
             }
         }
